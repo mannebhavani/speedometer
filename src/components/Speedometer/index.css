@@ -1,0 +1,48 @@
+/* Write your CSS here */
+.container {
+  background-color: #07080c;
+  padding: 10px;
+  text-align: center;
+  height: 100vh;
+}
+.heading {
+  color: white;
+  font-size: 30px;
+  font-weight: 600;
+  font-family: 'Roboto';
+}
+.para {
+  color: white;
+  font-size: 25px;
+  font-weight: 500;
+  font-family: 'Roboto';
+}
+.image {
+  height: 300px;
+  width: 80%;
+}
+.para2 {
+  color: white;
+  font-size: 15px;
+
+  font-family: 'Roboto';
+}
+.accelerate-button {
+  background-color: blue;
+  border-radius: 5px;
+  border-width: opx;
+  color: white;
+  margin-right: 10px;
+  padding: 4px;
+  cursor: pointer;
+}
+.apply-button {
+  background-color: transparent;
+  border-radius: 5px;
+  border-width: 2px;
+  border-color: white;
+  cursor: pointer;
+
+  color: white;
+  padding: 4px;
+}
